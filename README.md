@@ -57,7 +57,7 @@ np.round(sample,2))
 5. (s>170).mean() — boolean mask then mean to compute empirical probability. 
 6. np.random.normal(...) — draw synthetic samples (for simulation/bootstrapping).
 
-## SAMPLE OUTPUT
+## OUTPUT
 
 ```text
 Mean: 168.2 
